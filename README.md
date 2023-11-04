@@ -31,5 +31,5 @@
     color: red;
 }
 .text {
-    text-size-adjust: 24px; 
+    text-size: 24px; 
 }
